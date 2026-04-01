@@ -108,7 +108,7 @@ TOOL = {
 }
 ```
 
-### []（負責：葉書愷）
+### [人生格言]（負責：葉書愷）
 
 - **Tool 名稱**：get_travel_advice
 - **使用 API**：Advice Slip
