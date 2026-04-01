@@ -6,7 +6,7 @@ attractions_tool.py
 搜尋關鍵字範例：「Tokyo 景點」、「Taipei 旅遊注意事項」
 """
 
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 
 
 def search_attractions(city: str, max_results: int = 5) -> list[dict]:
